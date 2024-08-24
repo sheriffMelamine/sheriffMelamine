@@ -2,7 +2,7 @@
 -  I've recently graduated as a **Mechanical Engineer** from **Bangladesh University of Engineering and Technology**.  
 -  I am passionate about **Robotics and Control Engineering**.
 -  I've been involved in **Software sub-team** of [Team Interplaneter](https://github.com/InterplanetarCodebase), the Mars Rover Team of BUET, previously.
--  I am also an amateur web developer, check out my website [here](sheriffmelamine.github.io).
+-  I am also an amateur web developer, check out my website [here](https://sheriffmelamine.github.io).
 -  Currently I am looking forward to research opportunities related to robotics.
 <!--
 **sheriffMelamine/sheriffMelamine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
